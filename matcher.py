@@ -1,3 +1,5 @@
+__author__ = 'Krithik Ramesh <krithik@mit.edu>'
+
 import pandas as pd 
 import numpy as np
 import streamlit as st

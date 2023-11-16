@@ -1,3 +1,5 @@
+__author__ = 'Krithik Ramesh <krithik@mit.edu>'
+
 #streamlit assets
 import streamlit as st
 from st_aggrid import AgGrid

@@ -1,4 +1,7 @@
+__author__ = 'Krithik Ramesh <krithik@mit.edu>'
+
 import pandas as pd
+
 class DataProcessor:
     def __init__(self):
         pass  # No initialization parameters needed as of now

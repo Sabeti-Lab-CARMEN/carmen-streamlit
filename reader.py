@@ -1,3 +1,5 @@
+__author__ = 'Krithik Ramesh <krithik@mit.edu>'
+
 import pandas as pd
 import io
 
